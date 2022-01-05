@@ -1,4 +1,4 @@
-# harishreyya
+
 <h1 align="center">Hi 👋, I'm Reyya Harish</h1>
 <h3 align="center">A disciplined and hard-working full-stack web developer with a unique approach to problems. Great at communication and an artist at mind. Looking forward to working at an organization where my skills can be utilized well.</h3>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Harishrebel0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13adgIFubEhY_OSOwgbt5kJPsiRnAAAA0/view?usp=sharing](https://drive.google.com/file/d/13adgIFubEhY_OSOwgbt5kJPsiRnAAAA0/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
