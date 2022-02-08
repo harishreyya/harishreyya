@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development and Data Structures Algorithms**
 
-- 📝 I regularly write articles on [https://medium.com/@harishrebel0](https://medium.com/@harishrebel0)
+- 📝 I regularly write articles on [here](https://medium.com/@harishrebel0)
 
-- 💬 Ask me about **JavaScript, React JS, Node JS, MongoDB, Express JS, Bootstrap, HTML,CSS**
+- 💬 Ask me about **JavaScript, HTML,CSS, Node JS, MongoDB, Express JS, Bootstrap, React JS**
 
-- 👨‍💻 All of my projects are available at [https://port-8un4fcj08-harishreyya.vercel.app/](https://port-8un4fcj08-harishreyya.vercel.app/)
+- 👨‍💻 All of my projects are available at [harish](https://port-8un4fcj08-harishreyya.vercel.app/)
 
 - 📫 How to reach me **Harishrebel0@gmail.com**
 
