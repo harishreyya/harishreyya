@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, HTML,CSS, Node JS, MongoDB, Express JS, Bootstrap, React JS**
 
-- 👨‍💻 All of my projects are available at [My PortFolio](https://harish.dorik.page/)
+- 👨‍💻 All of my projects are available at [My PortFolio](https://reyyaharish-fullstackwebdeveloper.dorik.page/)
 
 - 📫 How to reach me **Harishrebel0@gmail.com**
 
