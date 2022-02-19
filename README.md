@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development and Data Structures Algorithms**
 
-- 📝 I regularly write articles on [here](https://medium.com/@harishrebel0)
+- 📝 I regularly write articles on [medium](https://medium.com/@harishrebel0)
 
 - 💬 Ask me about **JavaScript, HTML,CSS, Node JS, MongoDB, Express JS, Bootstrap, React JS**
 
