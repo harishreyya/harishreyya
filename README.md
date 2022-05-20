@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [My PortFolio](https://harish-portfolio.dorik.io/)
 
+- 👨Get some more information about me on [My Resume](https://drive.google.com/drive/u/0/folders/1S9siqs4-hagLyHHe6ToGZy7jh7k61BNO)
+
 - 📫 How to reach me **Harishrebel0@gmail.com**
 
 
