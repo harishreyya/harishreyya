@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Reyya Haris</h1>
+<h1 align="center">Hi 👋, I'm Reyya Harish</h1>
 <h3 align="center">A disciplined and hard-working full-stack web developer with a unique approach to problems. Great at communication and an artist at mind. Looking forward to working at an organization where my skills can be utilized well.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development and Data Structures Algorithms**
