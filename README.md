@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently working at **[RangDe](https://rangde.in/invest)** as Web Developer
 
-- 📝 I regularly write articles [here](https://medium.com/@harishrebel0)
+- 📝 I regularly write articles on **[medium](https://medium.com/@harishrebel0)**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Node JS, MongoDB, Express JS, Bootstrap, React JS, Java**
+- 💬 Ask me about **JavaScript, HTML, CSS, jQuery, React JS, Node JS, MongoDB, Express JS, Bootstrap, Themeleaf**
 
-- 👨‍💻 All of my projects are available at [My PortFolio](https://harish-portfolio.dorik.io/)
+- 👨‍💻 All of my projects are available at **[My PortFolio](https://harish-portfolio.dorik.io/)**
 
-- 👨Get some more information about me on [My Resume](https://drive.google.com/drive/u/0/folders/1S9siqs4-hagLyHHe6ToGZy7jh7k61BNO)
+- 👨Get some more information about me on **[My Resume](https://drive.google.com/drive/u/0/folders/1S9siqs4-hagLyHHe6ToGZy7jh7k61BNO)**
 
 - 📫 How to reach me **harishrebel0@gmail.com**
 
