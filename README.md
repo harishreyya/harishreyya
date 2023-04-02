@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Reyya Harish</h1>
 <h3 align="center">A disciplined and hard-working full-stack web developer with a unique approach to problems. Great at communication and an artist at mind.</h3>
 
-- 🌱 I’m currently working at **[RangDe](https://rangde.in/invest)** as Web Developer
+- 🌱 I’m currently open to work and has an experience of 9 months in **[Rangde](https://rangde.in/invest)** as web developer.
 
 - 📝 I regularly write articles on **[medium](https://medium.com/@harishrebel0)**
 
