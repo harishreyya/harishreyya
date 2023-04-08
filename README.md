@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, jQuery, React JS, Node JS, MongoDB, Express JS, Bootstrap, Themeleaf**
 
-- 👨‍💻 All of my projects are available at **[My PortFolio](https://harish-portfolio.dorik.io/)**
+- 👨‍💻 All of my projects are available at **[My PortFolio](https://harishreyya.github.io/Harish-Porfolio/)**
 
 - 👨Get some more information about me on **[My Resume](https://drive.google.com/drive/u/0/folders/1S9siqs4-hagLyHHe6ToGZy7jh7k61BNO)**
 
