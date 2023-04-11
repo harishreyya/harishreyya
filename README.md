@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on **[medium](https://medium.com/@harishrebel0)**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, jQuery, React JS, Node JS, MongoDB, Express JS, Bootstrap, Themeleaf**
+- 💬 Ask me about **JavaScript, HTML, CSS, jQuery, React JS, Node JS, MongoDB, Express JS, Bootstrap, Thymeleaf**
 
 - 👨‍💻 All of my projects are available at **[My PortFolio](https://harishreyya.github.io/Harish-Porfolio/)**
 
