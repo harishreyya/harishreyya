@@ -12,7 +12,7 @@
 
 - 👨Get some more information about me on **[My Resume](https://drive.google.com/drive/folders/1VHdNV2axbv9dD7yZlwGzW9mLg9KReo6v)**
 
-- 📫 Reach me on **harishrebel0@gmail.com**
+- 📫 Reach me at **harishrebel0@gmail.com**
 
 
 
