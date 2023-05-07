@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available on **[My PortFolio](https://harishreyya.github.io/Harish-Porfolio/)**
 
-- 👨Get some more information about me  **[My Resume](https://drive.google.com/drive/folders/1VHdNV2axbv9dD7yZlwGzW9mLg9KReo6v)**
+- 👨Get some more information about me on **[My Resume](https://drive.google.com/drive/folders/1VHdNV2axbv9dD7yZlwGzW9mLg9KReo6v)**
 
 - 📫 Reach me at **harishrebel0@gmail.com**
 
