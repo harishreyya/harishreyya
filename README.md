@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently open to work and has an experience of 9 months in **[Rangde](https://rangde.in/invest)** as web developer.
 
-- 📝 I regularly write articles on **[medium](https://medium.com/@harishrebel0)**
+- 📝 I regularly write articles on **[medium](https://medium.com/@harishrebel0){:target="_blank"}**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, jQuery, React JS, Node JS, MongoDB, Express JS, Bootstrap, Thymeleaf**
 
-- 👨‍💻 All of my projects are available on **[portfolio](https://harishreyya.github.io/Harish-Porfolio/)**
+- 👨‍💻 All of my projects are available on **[portfolio](https://harishreyya.github.io/Harish-Porfolio/){:target="_blank"}**
 
-- 👨Get some more information about me on **[resume](https://drive.google.com/drive/folders/1VHdNV2axbv9dD7yZlwGzW9mLg9KReo6v)**
+- 👨Get some more information about me on **[resume](https://drive.google.com/drive/folders/1VHdNV2axbv9dD7yZlwGzW9mLg9KReo6v){:target="_blank"}**
 
 - 📫 Reach me on **harishrebel0@gmail.com**
 
