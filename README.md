@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently open to work and has an experience of 9 months in **[Rangde](https://rangde.in/invest)** as web developer.
 
-- 📝 I regularly write articles on **[medium](https://medium.com/@harishrebel0) (open in a new tab manually)**
+- 📝 I regularly write articles on **[medium](https://medium.com/@harishrebel0)(:target="_blank")**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, jQuery, React JS, Node JS, MongoDB, Express JS, Bootstrap, Thymeleaf**
 
