@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Reyya Harish</h1>
 <h3 align="center">A disciplined and hard-working full stack web developer with a unique approach to problems. Great at communication and an artist at mind.</h3>
 
-- 🌱 I’m currently open to work and has an experience of 9 months in **[Rangde](https://rangde.in/invest)** as web developer.
+- 🌱 I’m currently open to work and have an experience of 9 months in **[Rangde](https://rangde.in/invest)** as web developer.
 
-- 📝 I regularly write articles on **[medium](https://medium.com/@harishrebel0)**
+- 📝 I regularly write articles on **[Medium](https://medium.com/@harishrebel0)**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, jQuery, React JS, Node JS, MongoDB, Express JS, Bootstrap, Thymeleaf**
 
-- 👨‍💻 All of my projects are available on **[portfolio](https://harishreyya.github.io/Harish-Porfolio/)**
+- 👨‍💻 All of my projects are available on **[Portfolio](https://harishreyya.github.io/Harish-Porfolio/)**
 
-- 👨Get some more information about me on **[resume](https://drive.google.com/drive/folders/1VHdNV2axbv9dD7yZlwGzW9mLg9KReo6v)**
+- 👨Get some more information about me on **[Resume](https://drive.google.com/drive/folders/1VHdNV2axbv9dD7yZlwGzW9mLg9KReo6v)**
 
 - 📫 Reach me on **harishrebel0@gmail.com**
 
