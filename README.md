@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Reyya Harish</h1>
-<h3 align="center">A disciplined, hard-working, full-stack web developer with a unique problem-solving approach. Great at communication and an artist in mind.</h3>
+<h3 align="center">A disciplined, hard-working, full-stack web developer with a unique problem-solving approach.Great at communication and an artist in mind.</h3>
 
 - 🌱 I’m currently open to work and have experience of 9 months in **[Rangde](https://rangde.in)** as a web developer.
 
