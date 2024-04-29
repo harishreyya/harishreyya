@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Reyya Harish</h1>
 <h3 align="center">A disciplined, hard-working, full-stack web developer with a unique problem-solving approach. Great at communication and an artist in mind.</h3>
 
