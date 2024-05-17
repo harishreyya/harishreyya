@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently open to work and have experience of 9 months in **[Rangde](https://rangde.in)** as a web developer.
 
-- 📝 I regularly write articles on **[Medium](https://medium.com/@harishrebel0)**
+- 📝 I regularly write articles on **[medium](https://medium.com/@harishrebel0)**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, jQuery, React JS, Node JS, MongoDB, Express JS, Bootstrap, Thymeleaf**
 
