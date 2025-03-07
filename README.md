@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Reyya Harish</h1>
 <h3 align="center">A disciplined, hard-working, full-stack web developer with a unique problem-solving approach. Great at communication and an artist in mind.</h3>
 
-- 🌱 I’m currently open to work and have experience of 9 months in **[Rangde](https://rangde.in)** as a web developer.
+- 🌱 I’m currently working in **[Magic API](https://api.market)** as a software engineer.
 
 - 📝 I regularly write articles on **[Medium](https://medium.com/@harishrebel0)**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, jQuery, React JS, Node JS, MongoDB, Express JS, Bootstrap, Thymeleaf**
+- 💬 Ask me about **Next Js, Typesycript, JavaScript, HTML, CSS, jQuery, React JS, Node JS, MongoDB, Express JS, Bootstrap, Thymeleaf**
 
 - 👨‍💻 All of my projects are available on **[Portfolio](https://harishreyya.github.io/Harish-Porfolio/)**
 
