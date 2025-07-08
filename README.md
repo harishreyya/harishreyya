@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Next Js, Typescript, React JS, Node JS, MongoDB, Express JS, Bootstrap,**
 
-- 👨‍💻 All of my projects are available on **[Portfolio](https://harishreyya.github.io/Harish-Porfolio/)**
-
 - 👨Get some more information about me **[Resume](https://drive.google.com/drive/folders/1VHdNV2axbv9dD7yZlwGzW9mLg9KReo6v)**
 
 - 📫 Reach me on **harishrebel0@gmail.com**
