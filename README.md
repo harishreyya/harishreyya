@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on **[Medium](https://medium.com/@harishrebel0)**
 
-- 💬 Ask me about **Next Js, Typescript, React JS, Node JS, MongoDB, Express JS, Bootstrap,**
+- 💬 Ask me about **Next Js, Typescript, React JS, Node JS, MongoDB, Express JS, Tailwind CSS,**
 
 - 👨Get some more information about me **[Resume](https://drive.google.com/drive/folders/1VHdNV2axbv9dD7yZlwGzW9mLg9KReo6v)**
 
