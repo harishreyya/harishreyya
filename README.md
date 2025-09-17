@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reyya Harish</h1>
 <h3 align="center">A disciplined, hard-working, full-stack web developer with a unique problem-solving approach. Great at communication and an artist in mind.</h3>
 
-- 🌱 I’m currently working in **[Magic API](https://api.market)** as a software engineer.
+- 🌱 I’m open to work as a full-stack web developer, please check my **[portfolio](https://react-portfolio-harishreyya-harishreyyas-projects.vercel.app/)**.
 
 - 📝 I regularly write articles on **[Medium](https://medium.com/@harishrebel0)**
 
