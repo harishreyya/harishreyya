@@ -1,27 +1,46 @@
-<h1 align="center">Hi 👋, I'm Reyya Harish</h1>
-<h3 align="center">A disciplined, hard-working, full-stack web developer with a unique problem-solving approach. Great at communication and an artist in mind.</h3>
+<h1 align="center">Hi, I'm Reyya Harish 👋</h1>
+<h3 align="center">Full Stack Software Engineer | Next.js • React • Node.js • AI-Powered Web Apps</h3>
 
-- 🌱 I’m open to work as a full-stack web developer, please check my **[portfolio](https://react-portfolio-harishreyya-harishreyyas-projects.vercel.app/)**.
+---
 
-- 📝 I regularly write articles on **[Medium](https://medium.com/@harishrebel0)**
+### 👨‍💻 About Me
+I’m a Full Stack Software Engineer with experience building production-grade SaaS and fintech applications.  
+I enjoy working across the stack — from clean, responsive UIs to scalable backend APIs, databases, and integrations.
 
-- 💬 Ask me about **Next Js, Typescript, React JS, Node JS, MongoDB, Express JS, Tailwind CSS,**
+I’ve worked on real-world systems involving search infrastructure, authentication, billing, analytics, automation, and AI-powered features.
 
-- 👨Get some more information about me **[Resume](https://drive.google.com/drive/folders/1VHdNV2axbv9dD7yZlwGzW9mLg9KReo6v)**
+---
 
-- 📫 Reach me on **harishrebel0@gmail.com**
+### 🚀 Featured Projects
 
+#### 🧾 AI-Powered Expense Tracker  
+A production-ready full-stack application that helps users track expenses, visualize spending patterns, and gain AI-driven insights through natural language queries.
 
+**Tech:** Next.js, TypeScript, Prisma, MongoDB, NextAuth, OpenAI API, Tailwind CSS  
+🔗 Live Demo: https://my-next-expense-prisma.vercel.app/
 
-<h2 align="left">Connect with me:</h2>
+---
 
-<p align="left">
-<a href="https://linkedin.com/in/r-harish-832793218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/r-harish-832793218/" height="30" width="40" /></a>
-<a href="https://medium.com/@harishrebel0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harishrebel0" height="30" width="40" /></a>
-</p>
+### 🛠 Tech Stack
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express, REST APIs  
+**Databases:** PostgreSQL, MongoDB, Prisma  
+**Search & Analytics:** Elasticsearch, Mixpanel, Google Analytics  
+**AI & Automation:** OpenAI APIs, AI-powered features, Prompt design, Cron Jobs  
+**Tools & Infra:** Git, Vercel, Redis, SendGrid, Stripe
 
-<h2 align="left">Languages and Tools:</h2>
+---
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+### 📌 What I’m Interested In
+- Full Stack / Software Engineer roles  
+- Building scalable SaaS products  
+- AI-powered user experiences  
+- Performance, clean architecture, and real-world problem solving  
 
+---
 
+### 🌐 Connect With Me
+- Portfolio: https://react-portfolio-harishreyya-harishreyyas-projects.vercel.app/
+- LinkedIn: https://linkedin.com/in/r-harish-832793218/
+- GitHub: https://github.com/harishreyya
+- Email: harishrebel0@gmail.com
