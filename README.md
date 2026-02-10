@@ -40,7 +40,7 @@ A production-ready full-stack application that helps users track expenses, visua
 ---
 
 ### 🌐 Connect With Me
-- Portfolio: https://react-portfolio-harishreyya-harishreyyas-projects.vercel.app/
-- LinkedIn: https://linkedin.com/in/r-harish-832793218/
-- GitHub: https://github.com/harishreyya
+- Portfolio: [https://harishreyya.vercel.app/](https://harishreyya.vercel.app/)
+- LinkedIn: [https://linkedin.com/in/r-harish-832793218/](https://linkedin.com/in/r-harish-832793218/)
+- GitHub: [https://github.com/harishreyya](https://github.com/harishreyya)
 - Email: harishrebel0@gmail.com
